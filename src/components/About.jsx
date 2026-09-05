@@ -51,7 +51,7 @@ export default function About() {
               My technical background bridges the gap between software development and IT infrastructure. Whether it's writing and optimizing SQL queries, managing LAN network infrastructure, or diving into backend development with Python and C#, I focus on creating stable, secure, and efficient systems.
             </p>
             <p>
-              Beyond the screen, my passions are deeply tied to technology and performance. I am a huge Formula 1 fan and enjoy exploring F1 telemetry data analysis. I also love building and optimizing PC hardware, as well as pushing limits in sim racing. When I need to disconnect, you can find me maintaining an active lifestyle—strength training or mountain hiking—or relaxing with a good Sci-Fi or fantasy audiobook.
+              Beyond the screen, my passions are deeply tied to technology and performance. I am a huge Formula 1 fan and enjoy exploring F1 telemetry data analysis. I also love building and optimizing PC hardware, as well as pushing limits in sim racing. When I need to disconnect, you can find me maintaining an active lifestyle - strength training or mountain hiking - or relaxing with a good Sci-Fi or fantasy books and games.
             </p>
           </motion.div>
 
