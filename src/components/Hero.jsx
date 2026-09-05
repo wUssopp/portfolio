@@ -16,10 +16,14 @@ export default function Hero() {
       </motion.p>
 
       <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.6 }} className="flex space-x-4">
-        {/* Przycisk bez neonowego cienia, z lekko stonowanym kolorem */}
-        <button className="px-8 py-3 bg-emerald-600 hover:bg-emerald-500 text-white font-semibold rounded-lg transition-colors duration-300">
+        <a 
+          href="/cv/Filip_Marciniak_CV.pdf" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="px-6 py-3 bg-emerald-500 text-[#0a0a0a] font-semibold rounded-md hover:bg-emerald-400 transition-colors duration-300 inline-flex items-center justify-center cursor-pointer"
+        >
           View My CV
-        </button>
+        </a>
         <a href="#about" className="px-8 py-3 border border-gray-700 hover:border-gray-500 text-gray-300 hover:text-white font-semibold rounded-lg transition-colors duration-300">
           Learn More
         </a>
